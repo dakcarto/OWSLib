@@ -29,7 +29,7 @@ import re
 from copy import deepcopy
 import warnings
 import six
-import requests
+import qgis_requests as requests
 import codecs
 
 """
